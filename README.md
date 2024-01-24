@@ -56,13 +56,15 @@
     <!-- <a href="https://Kuldeep-Rathod.github.io/"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="40px" height="40px"></a> -->
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+<hr>
 
-# Language and Tools? 
+# Language and Tools
 <!-- <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  -->
 <div align="center">
 
  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  
+ 
     
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -144,12 +146,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuldeep-Rathod&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kuldeep-Rathod" /><br>
 
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep-Rathod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Kuldeep-Rathod" width="400px"/> |
-| -- |
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep-Rathod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Kuldeep-Rathod" width="400px"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
-| -- |
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
    
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1920">
 
