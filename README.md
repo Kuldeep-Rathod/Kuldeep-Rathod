@@ -11,7 +11,7 @@
 <!-- Display -->
 <p align="center">
 <a href="https://github.com/Kuldeep-Rathod">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=React Developer;MERN Stack Learner;UI/UX Designer;Enjoy+Photography;Building+Something+Creative" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=MERN Stack Developer;React Developer;UI/UX Designer;Enjoy+Photography;Building+Something+Creative" /></a>
 </p>
 
 <!-- profile view small -->
